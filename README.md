@@ -15,7 +15,7 @@ Simple Whac-A-Mole Game
 # Step 1.
 ## Clone project for either terminal or your preferred interface
 ### For Terminal use:
- _git clone https://github.com/Frankie36/Whac-A-Mole.git
+git clone https://github.com/Frankie36/Whac-A-Mole.git
 
 ### If using Android Studio:
 Go to 'File' > 'New' > 'Project From Version Control' > 
