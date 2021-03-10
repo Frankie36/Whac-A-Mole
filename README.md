@@ -27,4 +27,4 @@ Go to 'File' > 'New' > 'Project From Version Control' >
 Wait for project to build you may be prompted to create your own gradle wrapper if so... click accept
 
 # Step 3.
-Run the application on your device of choice or emulator
+Run the application on your android device of choice or emulator
