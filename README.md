@@ -28,4 +28,4 @@ Wait for project to build you may be prompted to create your own gradle wrapper 
 Run the application on your device of choice or emulator
 
 
-![alt text](https://github.com/Frankie36/Whac-A-Mole/screenshots/whack-a-mole.png)
+![alt text](https://github.com/Frankie36/Whac-A-Mole/blob/main/screenshots/whack-a-mole.png)
